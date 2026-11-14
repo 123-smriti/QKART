@@ -5,7 +5,7 @@ A full-stack e-commerce application built with React and Node.js, featuring prod
 ## 🌐 Live Demo
 
 - **Frontend:** [QKart Live](https://qkart-frontend-t72i.onrender.com)
-- **Backend:** [QKart Backend](YOUR_BACKEND_URL)
+- **Backend API:** [QKart Backend](https://smritiku2023-me-qkart-frontend-v2.onrender.com)
 
 ## 📌 Overview
 
