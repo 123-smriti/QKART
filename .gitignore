@@ -1,7 +1,29 @@
+
+# Dependencies
 node_modules/
+
+# Build files
 build/
+dist/
+
+# Environment variables
 .env
 .env.*
 !.env.example
+
+# Logs
 *.log
+npm-debug.log*
+
+# Test reports
+testReport.json
+coverage/
+
+# OS files
 .DS_Store
+Thumbs.db
+
+# Editor temporary files
+*.swp
+*.swo
+
